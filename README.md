@@ -9,7 +9,7 @@ Wenn Änderungen an Dateien im Ordner oder dessen Unterordnern erkannt werden, w
 Solltet ihr es für beide Richtungen verwenden, muss ein "System" in der .env auf false gestellt werden.
 
 ```
-IS_MAIN_SYSTEM=true
+IS_MAIN_SYSTEM=false
 
 ```
 
